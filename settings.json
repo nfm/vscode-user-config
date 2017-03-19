@@ -34,7 +34,7 @@
     "editor.lineNumbers": "relative",
     "editor.fontFamily": "Hasklig",
     "editor.fontSize": 12.8,
-    "editor.codeLens": false,
+    "editor.codeLens": true,
     "editor.folding": false,
     "editor.renderControlCharacters": true,
     "editor.renderIndentGuides": true,
