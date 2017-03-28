@@ -42,7 +42,7 @@
     "editor.trimAutoWhitespace": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
-
+    "workbench.editor.enablePreviewFromQuickOpen": false,
     "ruby.lint": {
         "rubocop": true,
         "ruby": true //runs ruby -wc
