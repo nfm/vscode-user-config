@@ -15,6 +15,7 @@
         "after": ["0", "v", "$"]
     }],
     "vim.hlsearch": true,
+    "vim.ignorecase": false,
 
     "ctags": {
         "executePath": "/Users/rhys/.gem/ruby/2.3.3/bin/ripper-tags",
